@@ -1,6 +1,3 @@
-# Netflix-Movies-and-TV-Shows-Clustering
-To analyze and group Netflix content into similar clusters using machine learning (KMeans). This helps in understanding hidden patterns among Movies and TV Shows based on factors like genre, duration, release year, country, and rating.
-
 # 🎬 Netflix Movies and TV Shows Clustering
 
 This project performs unsupervised machine learning using **KMeans Clustering** to group Netflix titles (movies and TV shows) based on attributes like genre, duration, release year, rating, and country. The goal is to discover hidden patterns and similarities among content without using predefined labels.
